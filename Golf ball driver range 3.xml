@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Golf ball driver range 3.PNG</filename>
+	<path>C:\Users\Christiaan\Desktop\TENSORFLOW 2.0\TensorFlow\workspace\training_demo\images\caca.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>golfball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>527</ymin>
+			<xmax>253</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

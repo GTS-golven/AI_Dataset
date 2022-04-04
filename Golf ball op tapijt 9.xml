@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Golf ball op tapijt 9.jpg</filename>
+	<path>C:\Users\Christiaan\Desktop\TENSORFLOW 2.0\TensorFlow\workspace\training_demo\images\VideoCapture_20220317-111156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>golfball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>701</ymin>
+			<xmax>834</xmax>
+			<ymax>1127</ymax>
+		</bndbox>
+	</object>
+</annotation>

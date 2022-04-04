@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Golf ball driver range 11.PNG</filename>
+	<path>C:\Users\Christiaan\Desktop\TENSORFLOW 2.0\TensorFlow\workspace\training_demo\images\sdasd.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>golfball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>574</ymin>
+			<xmax>278</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

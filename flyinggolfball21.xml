@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>flyinggolfball21.jpg</filename>
+	<path>C:\Users\chris\Desktop\TensorFlow\workspace\training_demo\images\train\flyinggolfball21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>golfball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>64</ymin>
+			<xmax>196</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>
